@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Victor Aires!
 
-<p align="center">
-  <img src="https://github.com/codebyaires.png" width="140" style="border-radius: 50%;" />
-</p>
-
 🧠 Estou no início da minha jornada como desenvolvedor e busco aprender um pouco mais a cada projeto.
 
 🎓 Estudante de **Desenvolvimento de Sistemas no SENAI**  
