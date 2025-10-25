@@ -42,9 +42,3 @@
 <p align="center">
   <i>“A tecnologia é a ferramenta que transforma ideias em realidade.”</i>
 </p>
-
----
-
-<p align="center">
-  Feito com ❤️ por <b>Victor Aires</b>
-</p>
