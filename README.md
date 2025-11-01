@@ -21,7 +21,7 @@
 ---
 
 ### 💼 Projetos em destaque
-- 🎰 **Raspadinha (em desenvolvimento)** – um site de apostas simples e divertido.  
+- 🎰 [**Raspadinha**](https://github.com/codebyaires/raspadinha) – um site de apostas simples e divertido.  
 - 🧮 [**Contador de Passageiros**](https://github.com/codebyaires/contador_passageiros) – projeto prático para controle de pessoas, ideal para estudos.
 
 ---
