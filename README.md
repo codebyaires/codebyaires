@@ -20,6 +20,7 @@
 
 - 🕹️ [**Pedra, Papel e Tesoura em Rede**](https://github.com/codebyaires/newixx) – Sistema distribuído construído em Python e Redis, aplicando persistência NoSQL e sincronização de estado em rede para jogos.
 - ⏱️ [**Pomodoro Fighter**](https://github.com/codebyaires/pomodoro_fighter) – Aplicação web de produtividade com motor em JavaScript puro e validações de segurança em tempo real.
+- ☕ [**Sistema de Gerenciamento de Cafeteria**](#) – Projeto focado em modelagem de dados, diagramas de classe e scripts de banco de dados estruturados.
 - 🎰 [**Raspadinha Modular**](https://github.com/codebyaires/raspadinha) – Projeto em Python com forte separação de responsabilidades em módulos e estado gerenciado via argumentos.
 - 🧮 [**Analisador de Dados de Passageiros**](https://github.com/codebyaires/contador_passageiros) – Script Python para ler e processar arquivos `.csv`, utilizando dicionários para agregar dados e funções lambda para classificação.
 
@@ -36,11 +37,15 @@
 
 ### ⚡ Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyaires&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaires&layout=compact&theme=tokyonight" height="150"/>
+  <a href="https://github.com/codebyaires">
+    <img src="https://github-readme-stats.vercel.app/api?username=codebyaires&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/codebyaires">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaires&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  </a>
 </p>
 
 ---
 
 ### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-aires) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyaires)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-aires-93621636a) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyaires)
