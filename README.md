@@ -23,6 +23,7 @@
 - ☕ [**CoffeeManager - Engenharia e Arquitetura**](https://github.com/codebyaires/coffeemanager-arquitetura) – Modelagem de banco de dados relacional (DER), diagramação UML avançada e levantamento de regras de negócio para sistemas comerciais.
 - 🎰 [**Raspadinha Modular**](https://github.com/codebyaires/raspadinha) – Projeto em Python com forte separação de responsabilidades em módulos e estado gerenciado via argumentos.
 - 🧮 [**Analisador de Dados de Passageiros**](https://github.com/codebyaires/contador_passageiros) – Script Python para ler e processar arquivos `.csv`, utilizando dicionários para agregar dados e funções lambda para classificação.
+- 🗃️ [**Web-Cadastros**](https://github.com/codebyaires/Web-Cadastros) – Sistema CRUD em PHP e MySQL para gestão de usuários, clientes e produtos, com sistema de autenticação de acesso integrado.
 
 ---
 
