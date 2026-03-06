@@ -18,6 +18,7 @@
 
 ### 💼 Projetos em Destaque
 
+- 🎓 [**PLATAFORMA EAD SENAI**](https://github.com/codebyaires/Trilha_Estudos) *(Em desenvolvimento)* – Sistema educacional construído com PHP, MySQL e Tailwind CSS. Focado em segurança do lado do servidor, implementa autenticação com hash criptográfico, controle rigoroso de sessões e blindagem contra SQL Injection via Prepared Statements no CRUD de gestão de alunos e administradores.
 - 🕹️ [**Pedra, Papel e Tesoura em Rede**](https://github.com/codebyaires/newixx) – Sistema distribuído construído em Python e Redis, aplicando persistência NoSQL e sincronização de estado em rede para jogos.
 - ⏱️ [**Pomodoro Fighter**](https://github.com/codebyaires/pomodoro-fighter) – Aplicação web de produtividade com motor em JavaScript puro e validações de segurança em tempo real.
 - ☕ [**CoffeeManager - Engenharia e Arquitetura**](https://github.com/codebyaires/coffeemanager-arquitetura) – Modelagem de banco de dados relacional (DER), diagramação UML avançada e levantamento de regras de negócio para sistemas comerciais.
